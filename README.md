@@ -1,3 +1,3 @@
 # Kshitish-Kumar-OOPsAssignmentSolution
 
-# Edited my assignment 
+# This is the Description file of my project.
