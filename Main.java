@@ -22,7 +22,7 @@ public class Main {
     System.out.println(hrobj.isTodayAHoliday());
 
     //Printing space for Better Layout
-    System.out.println("\n\n");
+    System.out.println("\n");
     
         //Tech Department object
     TechDepartment techobj= new TechDepartment();
